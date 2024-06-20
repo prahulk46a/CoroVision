@@ -1,5 +1,6 @@
 **Corrosion Detection System:**
 - Central Control Unit: The system uses a Raspberry Pi 4 as the main control unit.
+  
 - Camera Module: Equipped with a Raspberry Pi Camera Module for live video streaming and capturing footage of target areas.
 - Servo Motors: Includes two servo motors (SG90 and MG996R) for precise camera movement, allowing 180-degree horizontal and vertical panning.
 - Motor Driver Unit: Controls the propulsion of the ROV and the movement of the camera.
