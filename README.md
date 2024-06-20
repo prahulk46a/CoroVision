@@ -19,15 +19,26 @@
 **System and sample output:**
 
 ![Tank Dimension](https://github.com/prahulk46a/CoroVision/assets/98529455/b751c1c5-4d2e-4312-a011-fe4e6277b10e)
+
+
 This are the complex Ship Structures.
 
 ![Circuit Diagram](https://github.com/prahulk46a/CoroVision/assets/98529455/67358d89-1896-4c55-8005-88590beea93f)
+
+
 This is Circuit Diagram of our system
 
 ![System](https://github.com/prahulk46a/CoroVision/assets/98529455/f465f292-5c1d-48c1-9df9-24f4d0261c0c)
+
+
 This is our Entire system for detection of corrosion.
 
 ![LiveStream](https://github.com/prahulk46a/CoroVision/assets/98529455/0ac8e7bc-12ee-4274-a721-998c1f289e1b)
 
+
+
 ![Corrodetection](https://github.com/prahulk46a/CoroVision/assets/98529455/ec701eb5-be63-4f62-bb43-879d2cce3e45)
+
+
+
 Live Corrosion detection.
